@@ -2,7 +2,7 @@ import os
 from image_utils import extract_images
 
 def main():
-    # Укажите путь к папке А, Б, В, Г 
+    # Путь к папке А, Б, В, Г 
     base_folder = r'C:\Users\Karina\Desktop\Проект вуз\Проект 3'
     folders = ['А', 'Б', 'В', 'Г']
     
